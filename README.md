@@ -7,7 +7,15 @@ Enfin, nous avons créé un client Java qui implémentera ce service web en util
 ![tp1](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/a1c6c09f-c5b8-4f2b-8a14-578c5a9ec8a3)
 
 Création du Web service BanqueService
+
 ![TP2](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/cf13d02d-4b6a-4e5b-af25-7778b2f9ba13)
 
 Création de la classe Compte
+
 ![TP3](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/778644b9-b783-4e85-81b4-0d9cc986f34d)
+
+Création du serveur JaxWS
+
+Spécification de l'adresse du serveur ainsi que l'instance du web service utilisé
+
+En définissant l'adresse IP comme "0.0.0.0", le service web devient accessible via toutes les interfaces réseau de la machine. En d'autres termes, cela signifie que le service est ouvert aux requêtes de toutes les adresses IP, qu'elles proviennent du réseau local ou du réseau externe, ce dernier cas étant applicable si la machine dispose de plusieurs interfaces réseau.
