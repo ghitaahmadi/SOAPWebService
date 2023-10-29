@@ -5,3 +5,5 @@ Par la suite, nous avons effectué des tests sur les opérations fournies par ce
 Enfin, nous avons créé un client Java qui implémentera ce service web en utilisant un intergiciel (middleware) appelé "stub".
 
 ![tp1](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/a1c6c09f-c5b8-4f2b-8a14-578c5a9ec8a3)
+
+Création du Web service BanqueService
