@@ -28,7 +28,7 @@ WSDL Obtenu
 
 Création du client JAVA
 Génération du proxy à partir du WSDL
-
+![tp8](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/e7b6f4e3-1edb-44d9-bbb2-ddb789f89ef3)
 
 
 
