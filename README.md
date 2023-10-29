@@ -30,10 +30,10 @@ Lorsqu'on utilise un service web, on commence par générer un proxy côté clie
 
 Création du client JAVA
 
-![tp9](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/b6aa706a-fa1c-4a4e-9342-cd993dfe0579)
-Génération du proxy à partir du WSDL
-
 ![tp8](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/e7b6f4e3-1edb-44d9-bbb2-ddb789f89ef3)
 
+Génération du proxy à partir du WSDL
+
+![tp9](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/b6aa706a-fa1c-4a4e-9342-cd993dfe0579)
 
 
