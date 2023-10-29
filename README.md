@@ -19,3 +19,6 @@ Création du serveur JaxWS
 Spécification de l'adresse du serveur ainsi que l'instance du web service utilisé
 
 En définissant l'adresse IP comme "0.0.0.0", le service web devient accessible via toutes les interfaces réseau de la machine. En d'autres termes, cela signifie que le service est ouvert aux requêtes de toutes les adresses IP, qu'elles proviennent du réseau local ou du réseau externe, ce dernier cas étant applicable si la machine dispose de plusieurs interfaces réseau.
+
+![tp5](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/bdf09c88-3047-4bbb-be39-276aa9f17635)
+
