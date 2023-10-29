@@ -26,6 +26,10 @@ WSDL Obtenu
 
 ![tp6](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/56bf726a-1fa0-4527-8a1e-9135b69e6cdf)
 
+Lorsqu'on utilise un service web, on commence par générer un proxy côté client à partir du WSDL. Chaque fois que l'on souhaite invoquer une méthode, on fait appel au stub. Le stub est responsable d'envoyer la requête au serveur distant en utilisant le squelette (skeleton).
+
+
+
 
 Création du client JAVA
 
