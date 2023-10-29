@@ -22,3 +22,6 @@ En définissant l'adresse IP comme "0.0.0.0", le service web devient accessible 
 
 ![tp5](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/bdf09c88-3047-4bbb-be39-276aa9f17635)
 
+WSDL Obtenu 
+
+
