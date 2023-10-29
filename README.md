@@ -8,3 +8,6 @@ Enfin, nous avons créé un client Java qui implémentera ce service web en util
 
 Création du Web service BanqueService
 ![TP2](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/cf13d02d-4b6a-4e5b-af25-7778b2f9ba13)
+
+
+![TP3](https://github.com/ghitaahmadi/SOAPWebService/assets/97565150/778644b9-b783-4e85-81b4-0d9cc986f34d)
